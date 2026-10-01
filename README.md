@@ -8,13 +8,14 @@ It is the starting point for the Graftcode quick-start guide:
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed locally
-- [Angular CLI](https://angular.dev/tools/cli) installed (`npm install -g @angular/cli`)
+
+The starter includes the Angular CLI. `npm run dev` uses that local CLI.
 
 ## Getting started
 
 ```bash
 npm install
-ng serve
+npm run dev
 ```
 
 Open the URL shown in the terminal (typically [http://localhost:4200](http://localhost:4200)).
